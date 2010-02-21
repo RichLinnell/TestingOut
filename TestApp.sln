@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{6EF63FF6-8FF4-4060-A53A-3D4125A626E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console_app_library", "Console_app_library\Console_app_library.csproj", "{6A06FB4D-D01F-47D2-ACAE-14C1843FC32A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp_tests", "TestApp_tests\TestApp_tests.csproj", "{A3F23C00-EF82-4962-8F11-4E978D13B6A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{6EF63FF6-8FF4-4060-A53A-3D4125A626E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EF63FF6-8FF4-4060-A53A-3D4125A626E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EF63FF6-8FF4-4060-A53A-3D4125A626E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A06FB4D-D01F-47D2-ACAE-14C1843FC32A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A06FB4D-D01F-47D2-ACAE-14C1843FC32A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A06FB4D-D01F-47D2-ACAE-14C1843FC32A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A06FB4D-D01F-47D2-ACAE-14C1843FC32A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F23C00-EF82-4962-8F11-4E978D13B6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F23C00-EF82-4962-8F11-4E978D13B6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F23C00-EF82-4962-8F11-4E978D13B6A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F23C00-EF82-4962-8F11-4E978D13B6A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
